@@ -15,7 +15,7 @@
 Site "currículo"
 
 -->
-## 💽 Programming portifolio
+## 💽 Programming portifolio:
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Gui-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
@@ -35,4 +35,4 @@ Check out some other links:
 </div>
 
 ##
-![snake gif](https://github.com/guilhermeeid/guilhermeeid/blob/output/github-contribution-grid-snake.gif)
+
