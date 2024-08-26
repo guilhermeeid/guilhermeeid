@@ -5,7 +5,7 @@
 - 🖥️ I'm currently graduating in Computer Engineering.
 - 🗣️ Pronouns: he/him.
 
-  ## Analytics:
+## 📊 Analytics:
   ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeeid&show_icons=true&count_private=true&theme=dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeeid&layout=compact&theme=dark)
   
@@ -15,8 +15,7 @@
 Site "currículo"
 
 -->
-##
-I have experience in full stack programming with the following languages:
+## 💽 Programming portifolio
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Gui-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
