@@ -7,7 +7,7 @@
 
 ## 📊 Analytics:
   ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeeid&show_icons=true&count_private=true&theme=dark&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeeid&layout=compact&theme=codeSTACKr&hide_border=true).
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeeid&layout=compact&theme=dark&hide_border=true)
   
 <!--
 ST "CV"
