@@ -6,14 +6,11 @@
 - 🗣️ Pronouns: he/him.
 
 ## 📊 Analytics:
-  ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeeid&show_icons=true&count_private=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeeid&layout=compact&theme=dark).
+  ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermeeid&show_icons=true&count_private=true&theme=dark&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeeid&layout=compact&theme=codeSTACKr&hide_border=true).
   
 <!--
-**guilhermeeid/guilhermeeid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Site "currículo"
-
+ST "CV"
 -->
 ## 💽 Programming portifolio:
 <div style="display: inline_block"><br>
