@@ -12,7 +12,7 @@
 <!--
 ST "CV"
 -->
-## 💽 Programming portifolio:
+## 💽 Programming stack:
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="Gui-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
