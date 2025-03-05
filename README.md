@@ -1,7 +1,6 @@
 ## Hi, I'm Guilherme Eid 👋
 
 - 🇧🇷 I’m brazilian.
-- 🎓 I’m currently studying on Pontifical Catholic University of Campinas.
 - 🖥️ I'm currently graduating in Computer Engineering.
 - 🗣️ Pronouns: he/him.
 
