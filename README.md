@@ -1,7 +1,7 @@
 ## Hi, I'm Guilherme Eid 👋
 
 - 🇧🇷 I’m brazilian.
-- 🖥️ I'm currently graduating in Computer Engineering.
+- 🖥️ I'm currently graduating in Computer Engineering at the Pontifical Catholic University of Campinas (PUCCAMP). Undergraduate research in intelligent decision support systems applied to health. Volunteer at the Women in Exact Sciences Group (GRACE) at the University of São Paulo (USP), developing outreach activities in the field of technology.
 - 🗣️ Pronouns: he/him.
 
 ## 📊 Analytics:
