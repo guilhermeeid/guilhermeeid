@@ -28,7 +28,7 @@
 🔗 Check out some other links:
 <div> 
   <a href="http://lattes.cnpq.br/3573746900379250" target="_blank"><img src="https://raw.githubusercontent.com/guilhermeeid/guilhermeeid/21bfe00ec5c6c5d7288218fe505a2dc2e37aedec/img/Lattes_logo.svg" width="50"></a>
-  <a href="www.linkedin.com/in/guilherme-eid-godoy-456344313" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg" target="_blank" width="50"></a>
+  <a href="http://linkedin.com/in/guilherme-eid-godoy-456344313" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/LinkedIn.svg" target="_blank" width="50"></a>
   <a href = "mailto:guilherme.eg@puccampinas.edu.br"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Gmail-Dark.svg" target="_blank" width="50"></a>
 </div>
 
